@@ -1,0 +1,149 @@
+ { "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/63009781110",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_intertitial_applovin": "e18ce0bd45c059510",
+      "main_native_for_admob_applovin":"ca-app-pub-3940256099942544/22476961100",
+      "backup_native_for_admob_applovin":"8542cbd043156661",
+      "backup_ads_banner":"57192e42c678333f",
+      "backup_ads_intertitial":"e18ce0bd45c05951",
+      "interval_intertitial": 0,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "matikan_iklan":"0",
+      "link_redirect": "https://"
+ 
+    }
+  ],
+ "DATA":
+  [
+    {
+      "title":"SR2 XHD Prime Scania K410iB",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-SR2-XHD-Prime-Scania-K410iB.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Scania-K410iB.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Scania-K410IB.png"
+    },
+    {
+      "title":"Bus SR2 Panorama",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Bus-SR2-Panorama.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/BUS-SR2-Panorama.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/BUS-SR2-Panorama.png"
+    },
+    {
+      "title":"Bus Jetliner SHD Hino RK8",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Bus-Jetliner-SHD-Hino-RK8.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-Jetliner-SHD-Hino-RK8.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/BUS-Jetliner-JT-WSP.png"
+    },
+    {
+      "title":"SR2 XHD Prime Scania K410iB",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-SR2-XHD-Prime-Scania-K410iB-Varian-Sumatra.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Livery-NPM-SR2-Tronton-UMP.png",
+      "link_livery":"https://wadahpintar.com/bussid/XHD-Prime-Scania%20K410iB-Varian-Sumatra.bussidmod"
+    },
+    {
+      "title":"JB3+ SHD Volvo B11R",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-JB3-SHD-Volvo-B11R.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-SHD-Volvo-B11R.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/JB3-Volvo-as-X-FM.png"
+    },
+    {
+      "title":"Bus Scania Touring",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Bus-Scania-Touring.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-Scania-Touring.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"BUSSID Bus Transjakarta Gandeng",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/07/MOD-BUSSID-Bus-Transjakarta-Gandeng.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-Transjakarta-Gandeng.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Bus Marcopolo Paradiso 1800DD",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Marcopolo-Paradiso-1800DD.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Marcopolo-Paradiso-1800DD.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Vidrio-Marcopolo-Paradiso.png"
+    },
+   {
+      "title":"Bus SR2 XHD Scania K410iB",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/03/MOD-BUSSID-Bus-SR2-XHD-Scania-K410iB.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/SR2-XHD-Scania-K410iB-V1-Standar.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Putra-Pelangi.png"
+    },
+   {
+      "title":"Bus Bumel Sumber Kencono",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/02/MOD-BUSSID-Bus-Bumel-Sumber-Kencono.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Bumel-Sumber-Kencono.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Truck Umplung Kantor Rafael Wedding",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Umplung-Kantor-Rafael-Wedding.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Umplung-Kantor-Rafael-Wedding.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Umplung-Libom-Kantor-Rafael-Wedding.png"
+    },
+   {
+      "title":"Monster Truck Seventy Indonesia",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Monster-Truck-Seventy-Indonesia.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Monster-Truck-Seventy-Indonesia.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Truck Volvo FMX 440",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Volvo-FMX-440.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Volvo-FMX-440.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-Volvo-FMX-440.png"
+    },
+   {
+      "title":"Truck UD Quester Bak Muat Kayu",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-UD-Quester-Bak-Muat-Kayu.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-UD-Quester-Bak-Muat-Kayu.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-UD-Quester-Bak-Muat-Kayu.png"
+    },
+   {
+      "title":"Truck Fuso FN Wing Box",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Fuso-FN-Wing-Box.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Fuso-FN-Wing-Box.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-Fuso-FN-Wing-Box.png"
+    },
+   {
+      "title":"Truck Canter NMR JSK Concept Star Light",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-NMR-JSK-Concept-Star-Light.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/JSK-Concept-Star-Light.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/JSK-Concept-Star-Light.png"
+    },
+   {
+      "title":"Truck Canter Giga Restu Bunda",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-Giga-Restu-Bunda.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Restu-Bunda-No-Terpal.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Restu-Bunda-No-Terpal.png"
+    },
+   {
+      "title":"Truck Hino Trailer Pencuri Traffic",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Hino-Trailer-Pencuri-Traffic.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Hino-Trailer-Pencuri-Traffic.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Truck Canter Sujama Malika",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-Sujama-Malika.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Sujama-Malika.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Sujama-Malika.png"
+    },
+   {
+      "title":"Truck MAN Damkar",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-MAN-Damkar.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-MAN-Damkar.bussidmod",
+      "link_livery":""
+    }
+  ]
+}
