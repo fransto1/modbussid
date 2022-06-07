@@ -25,6 +25,79 @@
   ],
  "DATA":
   [
+	{
+      "title":"JB3+ MHD Voyager",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-JB3-MHD-Voyager.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/MOD-BUSSID-JB3-MHD-Voyager-Dop-Keira.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Bus Voyager Daksina Trans",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Bus-Voyager-Daksina-Trans.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Mod-Bus-Voyager-Daksina-Trans.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Mod-Bus-Voyager-Daksina-Trans.png"
+    },
+	{
+      "title":"SHD Jetbus 3+ STJ Biru",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Bussid-SHD-Jetbus-3-STJ-Biru.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/SHD-Jetbus-3-STJ-Biru.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Bus SHD JB3+ RK8 ATJ by MD Creation",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Bus-SHD-JB3-RK8-ATJ-by-MD-Creation.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/SHD-JB3-RK8-ATJ-by-MD-Creation.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"JB3+ MN RSM Putra Luragung Montel",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/JB3-MN-RSM-Putra-Luragung-Montel.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-MN-RSM-Putra-Luragung-Montel.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/JB3-MN-RSM-Putra-Luragung-Montel.png"
+    },
+	{
+      "title":"Bus JB3 Sein Ngalir",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Bus-JB3-Sein-Ngalir-1.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-JB3-Sein-Ngalir-1.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Bus JB3 O500 RS Facelift",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Bus-JB3-Sein-Ngalir.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-JB3-Sein-Ngalir.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Bus Jetbus 3+ Facelift Mercy O500RS",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Bus-JB3-O500-RS-Facelift.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-JB3-O500-RS-Facelift.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"UHD JB3+ Full Aksesoris",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Bus-Jetbus-3-Facelift-Mercy-O500RS.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/.png"
+    },
+	{
+      "title":"Madu Kismo JB3+ SHD Voyager Terbaru Full Anim",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Bussid-UHD-JB3-Full-Aksesoris.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/UHD-JB3-Full-Aksesoris.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/UHD-JB3-Full-Aksesoris.png"
+    },
+	{
+      "title":"Jetbus 3+ Setra Angga Saputro Full Anim",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mad-Kismo-JB3-SHD-Voyager-Terbaru-Full-Anim.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Mad-Kismo-JB3-SHD-Voyager-Terbaru-Full-Anim.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Budiman JB3 Full Strobo & Anim",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Jetbus-3-Setra-Angga-Saputro-Full-Anim.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Jetbus-3-Setra-Angga-Saputro-Full-Anim.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Jetbus-3-Setra-Angga-Saputro-Full-Anim.png"
+    },
+	  
     {
       "title":"JB3+ UHD Angga Saputro Voyager",
 	     "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/JB3-UHD-Angga-Saputro-Voyager.jpg",
