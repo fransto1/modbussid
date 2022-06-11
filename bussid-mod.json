@@ -25,7 +25,64 @@
   ],
  "DATA":
   [
-	  {
+	{
+      "title":"JB3 Mercedes-Benz Dream Coach Tronton",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/06/SGCA_IMG-05062022-072804.jpg",
+      "link_mods":"https://archive.org/download/jb-3-mercedes-benz-dream-coach-tronton-mod-bussid/JB3%20Mercedes-Benz%20Dream%20Coach%20Tronton%20Mod%20BUSSID.bussidmod",
+      "link_livery":"https://archive.org/download/jb-3-mercedes-benz-dream-coach-tronton-mod-bussid/AO.png"
+    },
+	{
+      "title":"Laksana Legacy SR2",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/06/SGCA_IMG-04062022-101347.jpg",
+      "link_mods":"https://archive.org/download/jb-3-mercedes-benz-dream-coach-tronton-mod-bussid/Laksana%20Legacy%20SR2%20Mod%20BUSSID.bussidmod",
+      "link_livery":"https://archive.org/download/jb-3-mercedes-benz-dream-coach-tronton-mod-bussid/Laksana%20Legacy%20SR2%20Mod%20BUSSID.png"
+    },
+	{
+      "title":"JetBus 3+ Kids Panda",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/06/SGCA_IMG-01062022-185007.jpg",
+      "link_mods":"https://archive.org/download/jb-3-mercedes-benz-dream-coach-tronton-mod-bussid/JetBus%203%2B%20Kids%20Panda%20Mod%20BUSSID.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/.png"
+    },
+	{
+      "title":"Old Setra Bus",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/05/SGCA_IMG-22052022-143536.jpg",
+      "link_mods":"https://archive.org/download/jb-3-mercedes-benz-dream-coach-tronton-mod-bussid/Old%20Setra%20Bus%20Mod%20BUSSID.bussidmod",
+      "link_livery":"https://archive.org/download/jb-3-mercedes-benz-dream-coach-tronton-mod-bussid/Old%20Setra%20Bus%20Mod%20BUSSID.png"
+    },{
+      "title":"JB3 Dream Coach",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/05/SGCA_IMG-19052022-221448.jpg",
+      "link_mods":"https://archive.org/download/jb-3-mercedes-benz-dream-coach-tronton-mod-bussid/JB3%20Dream%20Coach.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"JB3 HDD Purnayasa",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/05/SGCA_IMG-11052022-081657.jpg",
+      "link_mods":"https://archive.org/download/avante-h-8-flanker/JB3%20HDD%20Purnayasa.bussidmod",
+      "link_livery":"https://archive.org/download/avante-h-8-flanker/JB3%20HDD%20Purnayasa.png"
+    },{
+      "title":"RS Integra ALS 270",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/04/SGCA_IMG-13042022-185137.jpg",
+      "link_mods":"https://archive.org/download/avante-h-8-flanker/RS%20Integra%20ALS%20270.bussidmod",
+      "link_livery":"https://archive.org/download/avante-h-8-flanker/RS%20Integra%20ALS%20270.png"
+    },
+	{
+      "title":"MPGT 2 DG",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/04/SGCA_IMG-01042022-090524.jpg",
+      "link_mods":"https://archive.org/download/avante-h-8-flanker/MPGT%202%20DG.bussidmod",
+      "link_livery":"https://archive.org/download/avante-h-8-flanker/MPGT%202%20DG.png"
+    },
+	{
+      "title":"Avante H8 Flanker",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/03/SGCA_IMG-03032022-194420.jpg",
+      "link_mods":"https://archive.org/download/avante-h-8-flanker/Avante%20H8%20Flanker.bussidmod",
+      "link_livery":"https://archive.org/download/avante-h-8-flanker/Avante%20H8%20Flanker.png"
+    },{
+      "title":"Marcopolo Paradiso G6 1800DD 8×2 Scania K420",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/02/SGCA_IMG-16022022-133651.jpg",
+      "link_mods":"https://archive.org/download/avante-h-8-flanker/Marcopolo%20Paradiso%20G6%201800DD%208%C3%972%20Scania%20K420.bussidmod",
+      "link_livery":"https://archive.org/download/avante-h-8-flanker/Marcopolo%20Paradiso%20G6%201800DD%208%C3%972%20Scania%20K420.png"
+    },
+	{
       "title":"Hino Lohan Muatan Kayu",
 	  "image":"https://gameitu.com/wp-content/uploads/2022/03/14.-Hino-Lohan-Muatan-Kayu.jpg",
       "link_mods":"https://wadahpintar.com/bussid/Hino-Lohan-Muatan-Kayu.bussidmod",
