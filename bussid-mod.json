@@ -25,6 +25,66 @@
   ],
  "DATA":
   [
+	  {
+      "title":"Jetliner Hino RN285",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/02/SGCA_IMG-08022022-160603.jpg",
+      "link_mods":"https://archive.org/download/hino-rm-2-bus/Jetliner%20Hino%20RN285.bussidmod",
+      "link_livery":"https://archive.org/download/hino-rm-2-bus/Jetliner%20Hino%20RN285.png"
+    },
+	{
+      "title":"Jetbus HD Kuler",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/01/SGCA_IMG-22012022-075009.jpg",
+      "link_mods":"https://archive.org/download/hino-rm-2-bus/Jetbus%20HD%20Kuler.bussidmod",
+      "link_livery":"https://archive.org/download/hino-rm-2-bus/Jetbus%20HD%20Kuler.png"
+    },
+	{
+      "title":"JetBus3 SHD Scania K360 Ed.1",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/01/SGCA_IMG-14012022-094924.jpg",
+      "link_mods":"https://archive.org/download/hino-rm-2-bus/JetBus3%20SHD%20Scania%20K360%201.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"JetBus3 SHD Scania K360 Ed.2",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/01/SGCA_IMG-14012022-094924.jpg",
+      "link_mods":"https://archive.org/download/hino-rm-2-bus/JetBus3%20SHD%20Scania%20K360%202.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"RS Evolution Kuler",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/01/SGCA_IMG-01012022-060500.jpg",
+      "link_mods":"https://archive.org/download/hino-rm-2-bus/RS%20Evolution%20Kuler.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"SR1 Old Bus",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/12/SGCA_IMG-29122021-161042.jpg",
+      "link_mods":"https://archive.org/download/hino-rm-2-bus/SR1%20Old%20Bus.bussidmod",
+      "link_livery":"https://archive.org/download/hino-rm-2-bus/SR1%20Old%20Bus.png"
+    },
+	{
+      "title":"SR2 Scania Tronton XHD Prime",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/12/SGCA_IMG-24122021-134541.jpg",
+      "link_mods":"https://archive.org/download/hino-rm-2-bus/SR2%20Scania%20Tronton%20XHD%20Prime.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Old Celcius Bus",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/12/SGCA_IMG-18122021-162635.jpg",
+      "link_mods":"https://archive.org/download/hino-rm-2-bus/Old%20Celcius%20Bus.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino RM2 Bus",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/12/SGCA_IMG-16122021-045934.jpg",
+      "link_mods":"https://archive.org/download/hino-rm-2-bus/Hino%20RM2%20Bus.bussidmod",
+      "link_livery":"https://archive.org/download/hino-rm-2-bus/Hino%20RM2%20Bus.png"
+    },
+	{
+      "title":"SR2 XHD Full",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/12/SGCA_IMG-10122021-084257.jpg",
+      "link_mods":"https://archive.org/download/hino-rm-2-bus/SR2%20XHD%20Full.bussidmod",
+      "link_livery":"https://archive.org/download/hino-rm-2-bus/SR2%20XHD%20Full.png"
+    },
 	{
       "title":"JB3 Mercedes-Benz Dream Coach Tronton",
 	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/06/SGCA_IMG-05062022-072804.jpg",
