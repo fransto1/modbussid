@@ -26,6 +26,66 @@
  "DATA":
   [
 	  {
+      "title":"Avante Full Pack",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/12/SGCA_IMG-09122021-124939.jpg",
+      "link_mods":"https://archive.org/download/hino-sr-2-panorama-v-2/Avante%20Full%20Pack.bussidmod",
+      "link_livery":"https://archive.org/download/hino-sr-2-panorama-v-2/Avante%20Full%20Pack.png"
+    },
+	{
+      "title":"Hino SR2 Panorama V2",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/12/SGCA_IMG-03122021-145458.jpg",
+      "link_mods":"https://archive.org/download/hino-sr-2-panorama-v-2/Hino%20SR2%20Panorama%20V2.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"SR2 XHD ECC R66",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/12/SGCA_IMG-01122021-120857.jpg",
+      "link_mods":"https://archive.org/download/hino-sr-2-panorama-v-2/SR2%20XHD%20ECC%20R66.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Avante Hino Rk8",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/11/SGCA_IMG-30112021-152132.jpg",
+      "link_mods":"https://archive.org/download/hino-sr-2-panorama-v-2/Avante%20Hino%20Rk8.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"SR2 Panorama",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/11/SGCA_IMG-19112021-060925.jpg",
+      "link_mods":"https://archive.org/download/hino-sr-2-panorama-v-2/SR2%20Panorama.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Jetbus 3+ SHD Scania K360",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/11/SGCA_IMG-25112021-181546.jpg",
+      "link_mods":"https://archive.org/download/hino-sr-2-panorama-v-2/Jetbus%203%2B%20SHD%20Scania%20K360.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Jetliner SHD Scania",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/11/SGCA_IMG-13112021-172836.jpg",
+      "link_mods":"https://archive.org/download/hino-sr-2-panorama-v-2/Jetliner%20SHD%20Scania.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Travego Smile",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/11/SGCA_IMG-05112021-141036.jpg",
+      "link_mods":"https://archive.org/download/hino-sr-2-panorama-v-2/Travego%20Smile.bussidmod",
+      "link_livery":"https://archive.org/download/hino-sr-2-panorama-v-2/Travego%20Smile.png"
+    },
+	{
+      "title":"SR2 XDD Scania K410ib Double Decker MN",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/11/SGCA_IMG-04112021-160752.jpg",
+      "link_mods":"https://archive.org/download/hino-sr-2-panorama-v-2/SR2%20XDD%20Scania%20K410ib%20Double%20Decker%20MN.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"JetBus3 SHD",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/11/SGCA_IMG-01112021-161234.jpg",
+      "link_mods":"https://archive.org/download/hino-sr-2-panorama-v-2/JetBus3%20SHD.bussidmod",
+      "link_livery":""
+    },
+	  {
       "title":"Jetliner Hino RN285",
 	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/02/SGCA_IMG-08022022-160603.jpg",
       "link_mods":"https://archive.org/download/hino-rm-2-bus/Jetliner%20Hino%20RN285.bussidmod",
