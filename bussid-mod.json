@@ -26,6 +26,66 @@
  "DATA":
   [
 	  {
+      "title":"Jetbus 3+ UHD MN Art 2542",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/10/SGCA_IMG-30102021-140151.jpg",
+      "link_mods":"https://archive.org/download/jetbus-2-hd-bus/Jetbus%203%2B%20UHD%20MN%20Art%202542.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Avante Scania",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/10/SGCA_IMG-27102021-124712.jpg",
+      "link_mods":"https://archive.org/download/jetbus-2-hd-bus/Avante%20Scania.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"SKS Scania Bus",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/10/SGCA_IMG-15102021-143550.jpg",
+      "link_mods":"https://archive.org/download/jetbus-2-hd-bus/SKS%20Scania%20Bus.bussidmod",
+      "link_livery":"https://archive.org/download/jetbus-2-hd-bus/SKS%20Scania%20Bus.png"
+    },
+	{
+      "title":"Jetbus 3+ SHD O500RS 1836 Gen 2",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/10/SGCA_IMG-11102021-164823.jpg",
+      "link_mods":"https://archive.org/download/jetbus-2-hd-bus/Jetbus%203%2B%20SHD%20O500RS%201836%20Gen%202.bussidmod",
+      "link_livery":"https://archive.org/download/jetbus-2-hd-bus/Jetbus%203%2B%20SHD%20O500RS%201836%20Gen%202.png"
+    },
+	{
+      "title":"Jetbus 3+ Shd Hino Rk Airsus Blackpink N2",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/09/SGCA_IMG-15092021-095458.jpg",
+      "link_mods":"https://archive.org/download/jetbus-2-hd-bus/Jetbus%203%2B%20Shd%20Hino%20Rk%20Airsus%20Blackpink%20N2.bussidmod",
+      "link_livery":"https://archive.org/download/jetbus-2-hd-bus/Jetbus%203%2B%20Shd%20Hino%20Rk%20Airsus%20Blackpink%20N2.png"
+    },
+	{
+      "title":"Jetbus 2 Ztom",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/09/SGCA_IMG-08092021-143957.jpg",
+      "link_mods":"https://archive.org/download/jetbus-2-hd-bus/Jetbus%202%20Ztom.bussidmod",
+      "link_livery":"https://archive.org/download/jetbus-2-hd-bus/Jetbus%202%20Ztom.png"
+    },
+	{
+      "title":"Jetbus 2+ HD Bus",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/09/SGCA_IMG-06092021-175228.jpg",
+      "link_mods":"https://archive.org/download/jetbus-2-hd-bus/Jetbus%202%2B%20HD%20Bus.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Jetbus 3+ Shd Hino RK8 Air Suspension",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/09/SGCA_IMG-01092021-142823.jpg",
+      "link_mods":"https://archive.org/download/jetbus-2-hd-bus/Jetbus%203%2B%20Shd%20Hino%20RK8%20Air%20Suspension.bussidmod",
+      "link_livery":"https://archive.org/download/jetbus-2-hd-bus/Jetbus%203%2B%20Shd%20Hino%20RK8%20Air%20Suspension.png"
+    },
+	{
+      "title":"Scania Touring Bus",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/08/SGCA_IMG-31082021-062858.jpg",
+      "link_mods":"https://archive.org/download/jetbus-2-hd-bus/Scania%20Touring%20Bus.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Scorpion X Hino RK",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/08/SGCA_IMG-26082021-150010.jpg",
+      "link_mods":"https://archive.org/download/jetbus-2-hd-bus/Scorpion%20X%20Hino%20RK.bussidmod",
+      "link_livery":""
+    },
+	  {
       "title":"Avante Full Pack",
 	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/12/SGCA_IMG-09122021-124939.jpg",
       "link_mods":"https://archive.org/download/hino-sr-2-panorama-v-2/Avante%20Full%20Pack.bussidmod",
