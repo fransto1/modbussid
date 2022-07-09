@@ -1,0 +1,132 @@
+{ "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/10331737120,
+      "main_ads_intertitial_applovin": "75eb7fdf1d8e2be40,
+      "main_native_for_admob_applovin":"ca-app-pub-3940256099942544/22476961100",
+      "backup_native_for_admob_applovin":"9ab5c8f474d911430,
+      "backup_ads_banner":"0000000000",
+      "backup_ads_intertitial":"75eb7fdf1d8e2be40,
+      "interval_intertitial": 0,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "matikan_download":"1",
+      "data_json":"http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/bussid.json",
+      "matikan_iklan":"0",
+      "link_redirect": "https://"
+ 
+    }
+  ],
+ "DATA":
+  [
+     {
+    	"title": "JB3+ Mercy 0500R Tividi",
+    	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNzB8ieXPlmq462hlnJvT-nEVs4rXIHAyH7lcnlGLdZ1KJlqXhqeO9d2cttLOmG2ii2OPYvZS5qEmwX2WOqsySjUeZSDBj8Move-R2hwsnHhdd8pRK257rZWPvfyf5LTX1iS-RBvUC3M1ZeUY_ICjQwhV_9sPxNTQwDgo2qO0045u1xaKeR8oCxrg/s320/JB3+%20Mercy%200500R%20Tividi.png",
+    	"link_mods": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg21kTrpSairzfF5uJjHQ5aEdUDRd4xLsTvtdgY9cXBT7UVdCO8Qrkz8SzQw2qCetkvjiKPIkLFFpUAeeAFqWXX9GRjMsPV-APWecWMbGd37rnGY337F5H985MLuGNO263i_pUMGT46wqB9J6WKQ0Ef-ZTvGM0Fnk4hPa_tNXUw9ic2Brf_ANXeS_Q/s16000/Sumber%20alam%20legacy%20sr2%20hd%20ksy.png",
+    	"link_livery": "https://www.mediafire.com/view/wc13t55bbfg0u3k/Tividi_Green_JB3_Mercy_O500R_Standard_By_Rmj_ALDroidNET.png/file"
+    }, {
+    	"title": "SR2 HD Sumber Alam",
+    	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg21kTrpSairzfF5uJjHQ5aEdUDRd4xLsTvtdgY9cXBT7UVdCO8Qrkz8SzQw2qCetkvjiKPIkLFFpUAeeAFqWXX9GRjMsPV-APWecWMbGd37rnGY337F5H985MLuGNO263i_pUMGT46wqB9J6WKQ0Ef-ZTvGM0Fnk4hPa_tNXUw9ic2Brf_ANXeS_Q/s16000/Sumber%20alam%20legacy%20sr2%20hd%20ksy.png",
+    	"link_mods": "https://www.mediafire.com/file/w8v367zqcdcqm55/SR2_HD.bussidmod/file",
+    	"link_livery": "https://www.mediafire.com/view/6co4fzmahv7xzb2/Sumber_Alam_Legacy_Sr2_HD_sky.png/file"
+    }, {
+    	"title": "JB2+ SHD Rombak Racing",
+    	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFIm9HoKGlu-W5bM34iNi5VO7lNkOnihLZNrHAdFRZ8udDHayhguYi30rn2MawXBBB1KPUFdIjz-bVUldaohbRGS5FOzB2cDPnETnygPSEjalbV-Vovg24D3EW5B1IYY5TGCTi-rE2NrE6OZnvicdVK67qGTXpRrYVuhzK2JFRjwUkaq8zLRIkiuQ/s1600/JB2+%20SHD%20Rombak%20Racing%20v2.png",
+    	"link_mods": "https://www.mediafire.com/file/mmlkfww926a2v9k/JB2%252B_SHD_RACING_FULL_LED_UPDATE_V2_ZONE_ID.bussidmod/file",
+    	"link_livery": "https://www.mediafire.com/view/po05smj1h9vdj38/HR_RELIGIE_JB2_SHD_ROMBAK_by_Fam.png/file"
+    }, {
+    	"title": "New Avante D2",
+    	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWJPx14nJHR5ocTGZ4JFbjVvCxkUyd3TMvlaAs4tqDJWLYHk503hymchvxHqbULN1ymWB3rEGD-lMSwfEuxqD_4bAMwTFm3S3Wk_-_Amic4GnSYS0ZDkEX7K-bTNJrywMZ9do9EuB0UYohdzI2Epbq_cHot2ZeiLYDToY2-X0hSF_sDPCWBmDtz_k/s1600/sinar%20jaya%20new%20avante%20d2.png",
+    	"link_mods": "https://www.mediafire.com/file/3q9orb2vnhci65c/AVANTE_D2_SHARE_BY_JODS_TV.bussidmod/file",
+    	"link_livery": "https://www.mediafire.com/view/qq1d34m7rc6t12q/sinjay.png/file"
+    }, {
+    	"title": "JB3+ Full Strobo",
+    	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAq3vmQ1bC1sBtTyJTzQ9f5Om1KztQHyjDxlB7DgAB6K381fEf6oOysTG2YgZzhuxrMOtPyRBXFqK1cyOhv9bylGOoU34L9FLHW1HoaEpflsCTWgsvugJBJDNmLD33Ulnb2xcNuCHZ_DXADKtCdWNPAqbEUyotczhQzvY3Ymh7PV5hVDmKYb06CfY/s1600/JB3+%20Full%20Strobo.png",
+    	"link_mods": "https://www.mediafire.com/file/wmv4t0zibpcs2oc/ALCOA_FULL_FARIASI.bussidmod/file",
+    	"link_livery": "https://www.mediafire.com/view/ohgdlpuim4pngx5/Black_custom_DROGBA_by_Bony_Bdm.png/file"
+    }, {
+    	"title": "New JB3+ K410iB",
+    	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIqBwCt8--3E-09LYwGPRqsWNf_jwkgT0AgelEuetFRaT1HsfYEe540m_EDja48ffIEGS29ZGUl5Up1iXbj_VIhoqBI4cKrmHTDYcLWg2zIID0hoJWf9DIq4C2qVAPy9NqHrblQMfy1Xe5wxEqfp0Om95z9YhCUNM33qLeQ1u_i2VOKT9fyXIbK2g/s16000/New%20JB3+%20K410iB%20Juragan%2099.png",
+    	"link_mods": "https://www.mediafire.com/file/9wt320l9yipcbsd/SHD_SCANIIA_K410_IB_STD.bussidmod/file",
+    	"link_livery": "https://www.mediafire.com/view/i2d1a896e7nmr5y/Juragan_99_Scania_K410.png/file"
+    }, {
+    	"title": "JB3 Cirebon Style Full Anim",
+    	"image": "https://i.ytimg.com/vi/lBN4EcrLQ-c/mqdefault.jpg",
+    	"link_mods": "http://www.mediafire.com/file/skvbk4eb68ojom3/JB3%252B_CIREBON_STLYE_%255BRMP%255D.bussidmod/file",
+    	"link_livery": "http://www.mediafire.com/view/gul8qd56u3rjjp9/RMP_HIDAYAH.png"
+    }, {
+    	"title": "Bris Trans Tuan Muda",
+    	"image": "https://galeribussid.com/wp-content/uploads/2022/05/Spesial-THR-2022-MOD-JB3-Bris-Trans-3-Unit-AS-FM.jpg",
+    	"link_mods": "https://www.mediafire.com/file/rk6n0lao3bd4utq/Hino_RK_Varian_1.bussidmod/file",
+    	"link_livery": "https://www.mediafire.com/view/frehg6w9r6wt6wi/bristrans_Tuan_muda_new_font_by_Hanafi_Hardiyan.png/file"
+    }, {
+    	"title": "Srikandi SDD Full Anim",
+    	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicdnzKtfbMnUbeKcb05qxSQuZMnyibDBJgVoz5u2hesGgjyNScd9MMbQ1hh7QfGO4u2LO0S8dOn9wvv7U0iHclDnFllFW-WcIIe6mb5rUXHVATQXt0hvIIiLQTPqRamIDJWk-54ysF6FkbsJnDn2b6_8mSw_H3pMBo63UAKXfrKEr3vLbQRoO4tGI/s1600/Mod%20Srikandi%20SDD%20Full%20Anim.png",
+    	"link_mods": "http://www.mediafire.com/file/ppbsrqwtw85romn/SRIKANDI_SDD.bussidmod/file",
+    	"link_livery": "null"
+    }, {
+    	"title": "Marcopolo Paradiso",
+    	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglM9IkqY-dTaAU3idVlOc6rLIU-bFobbyam8StDD_AiDclENa5wKpRRNfEg0rOq19nBdbbST0l14KdBM1rNv44UCxK3oSUT_XDJ8pyNuA2bWQuIZt2-196qWTfs1Q3_pDWjxwr1RcWmFt47gbqdFXgzbVZc8-wbOdjzFiw-w5G1bSCUnp2EgbobVc/s1600/Mod%20Marcopolo%20Paradiso.png",
+    	"link_mods": "https://www.mediafire.com/file/us9fh2jvs874hdj/Marcopolo_Paradiso_1800DD.bussidmod/file",
+    	"link_livery": "https://www.mediafire.com/view/xb5pftloavbb9mz/marc_by_wesley_rhavy.png/file"
+    }, {
+    	"title": "Dream Coach Pahala Kencana",
+    	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdcnS2c7UaenO6p8z8p5Ld-CPA7JFzLsI2KX39KKn4kEljYvt536RC3dQPBC3gnBwCgRcB7EQnfCTYq9aJ5b-6KarkJ6YwN4PFW3AdeQ5q8H55tcXbVBB5TXvuBNwZaRQL3heLOwMqkz0_MnpU8hjAue5ie71vnVatRgf4iCbjxUeb3QyQZuu4QwU/s1600/Dream%20Coach%20Pahala%20Kencana.png",
+    	"link_mods": "https://www.mediafire.com/file/5y89l5fhfpr1ehg/DREAM_COACH.bussidmod/file",
+    	"link_livery": "https://www.mediafire.com/view/p8q95dc1dvhtsq8/Livery_Dream_Coach_Pahala_Kencana_%2528MDC%2529By_Jeffry_Bussid.png/file"
+    }, {
+    	"title": "JB3+ SHD Handoyo",
+    	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4bfYWC7tAHHeLQQ9sfrjrsmJO8gJYuQF0PA4BOa9yyT7_VqvvX7secuqENA4W0MhPw26cSzjPny44m7X-kAp4DJZJz-I-d9sUeR-jVf20XgQ4XvL2PaaD9T1pI7ihwMcI5TygjApgudKxhO1h0ZA6EKkfPs2jY7mBKwgAR8mjbkkTx39ua6EDLtE/s16000/JB3+%20SHD%20Handoyo.png",
+    	"link_mods": "https://www.mediafire.com/file/1k8yxlhkobkn2g4/JB3_SHD_HINO.bussidmod/file",
+    	"link_livery": "https://www.mediafire.com/view/ha3idhzodnb8bw7/Handoyo_JB3_by_Blahbloh.png/file"
+    }, {
+    	"title": "JB3+ MHD Blue Star",
+    	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirmBAnw2YLgjhOtvHYj-eqKUhGhAmg6IJZSOlXXt7_xMQyEHOqogieRegQdotXO2P2IyYoJT-tA5ZnJxhtgOik1HCst3hpZ1bdUjmueGMiu2AybLOgUgMHPto3sr9h2qE59lEDDv1-J4OBwYvSxuT2yCrtfjJ3XaRXFhepokmeJ1n0YwWn1cV5DrQ/s1096/JB3+%20MHD%20BLUE%20STAR.png",
+    	"link_mods": "https://www.mediafire.com/file/wunkznxi6izpv0m/JB3%252B_MHD.bussidmod/file",
+    	"link_livery": "https://www.mediafire.com/view/c6q50vg9gqmld3b/MD-MHDV2-Blue_Star_by_Mizta.png/file"
+    }, {
+    	"title": "ALS Euroliner v5 Berkarat",
+    	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxazwh78qOSVIlc1dZMV4Cy9tpS8eTQJ66J3VNOUJ9iGP9B9SwxQ5BMK90Igdv-7nGd9EN2494fsSuCPVD43HPE6uv01lO_gXoCVcxeY3v10D4Ss_VtUxX_rDtuTu6ZxuLyDszxcKhr3_75GHS1-dBDr_s0BJ7KZb6rXGAC0wZEvrUBBhRHDRr9IQ/s16000/ALS%20Euroliner%20v5%20Berkarat.png",
+    	"link_mods": "https://www.mediafire.com/file/hj5hwzfw1slmxjq/Euroliner_var5.bussidmod/file",
+    	"link_livery": "https://www.mediafire.com/view/91ak6a5vej935zc/A.L.S_LEGEND_EUROLINER_KARATAN.png/file"
+    }, {
+    	"title": "Rosalia Indah Berkarat Titanium",
+    	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXp2tiDzjLm_A6tQZrf48WJnCdeI_f6z17wkvvrBYm3RZ_auOQjtPLKxfRxXcmIl6qQpXu37rV4zzK9xllQYYOzJQFBGB5BjclLxG4vwynPT72zy91VUkDa36AyFi38LubqEVNcjeLxUMtePmB0bcymwTc4NYLlri8YRAmsZamtKREJCnqFpAeJvQ/s1600/Rosalia%20Indah%20Berkarat%20Titanium.png",
+    	"link_mods": "https://www.mediafire.com/file/vpy4nkgeczivese/titanium.bussidmod/file",
+    	"link_livery": "https://www.mediafire.com/view/z85ka0qszah9m20/Rosin_berkarat_Titanium_Mulil_by_Blahbloh.png/file"
+    }, {
+    	"title": "Sumber Kencono Berkarat Kotor Titanium",
+    	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwhBpkPFtiVJBMIL90oJjPle8S0T180NqJbOxR_nn8F72xe9mXqUpZUYdyhBLMWRKf8MRzQzsvLMWO04Ux79Im1I-ffdHYllxVNeJqJuNR2VbQSxebZEhiHm2M8yPHksVVXdMlVkO0xNuGEPnQLvwE3eRZWuk747RKAkZDhUp7vzsbysOtneQ6RaU/s1600/Sumber%20kencono%20berkarat%20kotor%20titanium.png",
+    	"link_mods": "https://www.mediafire.com/file/8ellabhwqkge331/titanium.bussidmod/file",
+    	"link_livery": "https://www.mediafire.com/view/ku4bupuq5utlcwu/SUMBER_KENCONO_LAWAS_AKAP_KOTOR_TITANUM_TRISAKTI_BY_RMJUPDATE.png/file"
+    }, {
+    	"title": "New Patriot Harapan Jaya",
+    	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG3elpsBHB49lyLz_ouAiLYpP9F83HtaXg149kEMd7b6Il5n6wAOzGl_suS6cc5BYPl2CZpq0vSMSPO9AUr-Lktt3b2gtVqRQa8VMz3XrXcNt_Ddyo0OydMMRy6P6n0rqz5CtEqhr6W5dGO6O-T0jzLnmuixPJSTch90PeQCZUWWcbGnRkkPIvt9M/s16000/NEW%20PATRIOT%20HARAPAN%20JAYA.png",
+    	"link_mods": "https://www.mediafire.com/file/yzuvhit07ldhdke/NEW_PATRIOT_SHARE.bussidmod/file",
+    	"link_livery": "https://www.mediafire.com/view/qdq6barac05crn2/New_Boxer_Harjay.png/file"
+    }, {
+    	"title": "Metromini",
+    	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivdXJCNmUG-uAEirIW2TBOZIoOss6_PRKg3C0Vc_IYGBAfbAlR4P3pouhes8hFydnoiPTjZpkxYBfgyYaXq9Cn5bsAwu8Stca51T_75Xr7RwKAf0daZZdPecZ8nnhr0kMXaFz1Ita7LzB195VaWSOj8AffHuzA9bULam8xMqK6O_FRyuT5FCEzIKo/s16000/METROMINI.jpg",
+    	"link_mods": "https://www.mediafire.com/file/cajd3bgzy7znwef/METROMINI.bussidmod/file",
+    	"link_livery": "null"
+    }, {
+    	"title": "PO. HARYANTO JB2 FULL LED",
+    	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcUvAE-t0pU0om91Pr37B16DfrAoFPd8Mx8C00lMQfEDHeLQzgU11e_pdHpJwD-9eZ8QJej6OPhm2VG2Wl2jsDZ2SkT9iqEcYP09MiPRAstaG4smeyEc2XuNEl1rfLXMQLHeRA7BqMLCN3Xb5-kP-lw_oJVskI4oEik4PCFYJDbpC4rfiPXHunEoM/s1600/JB2%20FULL%20LED%20HARYANTO.png",
+    	"link_mods": "https://www.mediafire.com/file/1jafm711mrwxewx/JB2_FULL_LED_UPDATE_V1_CVT_ZoneID-1.bussidmod/file",
+    	"link_livery": "https://www.mediafire.com/view/a2vpwip0kd3m4iy/HR_The_King_jb2_ZTOM_X_MDC_by_Akbar_Click-picsay.png/file"
+    }, {
+    	"title": "JB3+ SDD VOYAGER",
+    	"image": "https://1.bp.blogspot.com/-GzKUAnF7NA8/X5_IMv-fEuI/AAAAAAAAECo/xXoe40I6FIgFV922a51el8oQI1q3i8c6wCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-11-02-15-26-01-656_com.maleo.bussimulatorid.jpg",
+    	"link_mods": "https://www.mediafire.com/file/rcmnb2dwh34zoj7/JB3%252B_SDD_VOYAGER_SHARE_BY_JODS_TV.bussidmod/file",
+    	"link_livery": "https://www.mediafire.com/view/sv5yzd58fq80irk/Pandawa_SDD_by_Blahbloh.png/file"
+    }
+  ]
+}
