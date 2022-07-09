@@ -1,0 +1,157 @@
+{ "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_intertitial_applovin": "093d8b735df39a520",
+      "main_native_for_admob_applovin":"ca-app-pub-3940256099942544/22476961100",
+      "backup_native_for_admob_applovin":"b730b0cb655425fb0",
+      "backup_ads_banner":"0000000000",
+      "backup_ads_intertitial":"093d8b735df39a520",
+      "interval_intertitial": 0,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "matikan_download":"1",
+      "data_json":"http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/bussid.json",
+      "matikan_iklan":"0",
+      "link_redirect": "https://"
+ 
+    }
+  ],
+ "DATA":
+  [
+    {
+    	"title": "JB3 SHD Hino 44 Trans Strobo",
+    	"image": "https://image.winudf.com/v2/image1/Y29tLm1vZGJvc21vZWRhLmJ1c3NpZGpldGJ1czNfc2NyZWVuXzBfMTU3NTQzMzY2MV8wMjU/screen-0.jpg?h=500&fakeurl=1&type=.jpg",
+    	"link_mods": "https://www.mediafire.com/file/kdeszd3dud0uv9b/facelift.bussidmod/file",
+    	"link_livery": "https://www.mediafire.com/view/nafn0f0axndor8e/livery_44trans_jb3_Hino_update_FM_by_GTA_XD.png/file"
+    }, {
+    	"title": "ROSIN SSD Detail Full Lampu",
+    	"image": "https://1.bp.blogspot.com/-slTzxTsqEgA/XWZL61cb0SI/AAAAAAAABME/OIot1_DoJzg_oSnNjArc9V79Kmxm0ZUPwCLcBGAs/s1600/mod_jb2%252B_super_double_decker_payoengi.com.jpeg",
+    	"link_mods": "https://www.mediafire.com/file/5d5jklwgojthdb0/sdd3_voyager_winglet.bussidmod/file",
+    	"link_livery": "https://www.mediafire.com/view/8gkaesfr44hbhxq/Rosin_SDD_MDC_by_Blahbloh.png/file"
+    }, {
+    	"title": "SDD 4 AXLE VOLVO",
+    	"image": "https://1.bp.blogspot.com/-zfBTNWTjcd4/XQdicvBE0eI/AAAAAAAADW8/eLmvj-Pd4E4DMVQ0A2K_eDcEQZs8jZbWQCLcBGAs/s1600/mod%2Bbussid%2Bbus%2Bsdd%2B4axle%2Bby%2Bzilla%2Bwsp%2Bmods.jpeg",
+    	"link_mods": "https://www.mediafire.com/file/1ffkm179n53wz38/JB2%252B_Sdd_4_Axle_Volvo_B11R.bussidmod/file",
+    	"link_livery": "https://www.mediafire.com/view/y64rvxoqnttdk1q/SUNBREAKER_NEW_STIKER_HM_012_UPDATE_JB3_MHD_1626_VOYAGER_BY_GARASITUBE.png/file"
+    }, {
+    	"title": "Mod JB3+ SHD Hino RK",
+    	"image": "https://i.ytimg.com/vi/L625dG4Acms/maxresdefault.jpg",
+    	"link_mods": "https://www.mediafire.com/file/z5o6k8e4cg0tl4d/JB3%252B_SHD_HINO_RK.bussidmod/file",
+    	"link_livery": "https://www.mediafire.com/view/lxmtb2sqosixyqn/JB3_HINO_PINTU_TENGAH_-_STJ_VIOLA.png/file"
+    }, {
+    	"title": "PO. Haryanto SR2 NRS ECE R66 V3",
+    	"image": "https://1.bp.blogspot.com/-WanwFuZ2gJI/YH48BYGKSGI/AAAAAAAAF_8/B8cJblw9CTk04PvDl4M_ygR36m-LOpKWQCNcBGAsYHQ/s560/PO.%2BHaryanto%2BSR2%2BNRS%2BECE%2BR66%2BV3.jpeg",
+    	"link_mods": "https://www.mediafire.com/file/gzfr7lgvuz7isj9/final_sr2.bussidmod/file",
+    	"link_livery": "https://www.mediafire.com/view/w0mpwvt8lbd8wol/SR2_PO_HARYANTO.png/file"
+    }, {
+    	"title": "Harapan Jaya",
+    	"image": "https://gameitu.com/wp-content/uploads/2022/04/Mod-Bussid-Harapan-Jaya.jpg",
+    	"link_mods": "https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
+    	"link_livery": "https://aliendro.id/uploads/busid/Livery%20Harapan%20Jaya%20SR2%20Triple%20Axle.png"
+    }, {
+    	"title": "Livery Zentrum JB2 SHD",
+    	"image": "https://aliendro.id/uploads/busid/MOD-BUSSID-JB2-SHD.jpeg",
+    	"link_mods": "https://aliendro.id/uploads/busid/JB2%20SHD.bussidmod",
+    	"link_livery": "null"
+    }, {
+    	"title": "ELF Pariwisata",
+    	"image": "https://gameitu.com/wp-content/uploads/2022/03/3.-Download-Mod-Bussid-ELF-Pariwisata.jpg",
+    	"link_mods": "https://drive.google.com/file/d/1O6cwXG9kO4v6dlb2gqCBBLA-QXWYDJ-V/view?usp=sharing",
+    	"link_livery": "https://drive.google.com/file/d/1qvBBLSfQcfPiuaY1qcD9gr24Uufewnyo/view?usp=sharing"
+    }, {
+    	"title": "Avante ES MOD",
+    	"image": "https://1.bp.blogspot.com/-uq7mK3F2xZM/XFz96Fbtm4I/AAAAAAAADA4/_G29ZZNunl4MXF_AMnuFvOYI9N4yjWbfgCLcBGAs/s1600/Screenshot_2019-02-08-10-53-15-524_com.maleo.bussimulatorid.png",
+    	"link_mods": "https://www.mediafire.com/file/skma4ytnog3b5ag/Avante_D2_ESMod023.bussidmod/file",
+    	"link_livery": "null"
+    }, {
+    	"title": "Bus Persib Full Strobo",
+    	"image": "https://pbs.twimg.com/media/Ds71ZbVU0AA8CiF.jpg",
+    	"link_mods": "https://www.mediafire.com/file/a8isjk2ztughfrg/SR2_ECE_R66_scania_ceper.bussidmod/file",
+    	"link_livery": "https://www.mediafire.com/view/jl6iv1k1ns29bg7/persib_bandung_by.angga.png/file"
+    }, {
+    	"title": "Truck Canter Ayam Racing Full Anim",
+    	"image": "http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/gambar/Truck%20Canter%20Ayam%20Racing%20Full%20Anim.jpg",
+    	"link_mods": "http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/mod/7.%20CANTER%20AYAM%20RACING%20SHARE%20BY%20JODS%20TV.bussidmod",
+    	"link_livery": "http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/livery/Truck%20Canter%20Ayam%20Racing%20Full%20Anim.png"
+    }, {
+    	"title": "Canter Bangunan",
+    	"image": "http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/gambar/canter%20bangunan.jpg",
+    	"link_mods": "http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/mod/Canter%20Bangunan%20Muatan%20Semen.bussidmod",
+    	"link_livery": ""
+    }, {
+    	"title": "Mod Wahyu Abadi Full Strobo",
+    	"image": "http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/gambar/maxresdefault%20%284%29.jpg",
+    	"link_mods": "http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/mod/3.%20WAHYU%20ABADI.bussidmod",
+    	"link_livery": "http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/livery/3.%20Livery%20wahyu%20abadI%20fam8os%20by%20RGDESIGN..png"
+    }, {
+    	"title": "Truck Canter Kalimantan",
+    	"image": "http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/gambar/mod%20bussid%20canter%20dump%20kalimantan%20style.jpg",
+    	"link_mods": "http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/mod/5.%20CANTER%20KALIMANTAN%20SHARE%20BY%20JODS%20TV.bussidmod",
+    	"link_livery": "http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/livery/5.%20LIVERY%20KOTOR%20CANTER%20KALIMANTAN.png"
+    }, {
+    	"title": "Canter Oleng Sweet Angel",
+    	"image": "http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/gambar/photo_2022-05-08_14-15-48.jpg",
+    	"link_mods": "http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/mod/4.%20CANTER%20SWEET%20ANGEL%20SHARE%20BY%20JODS%20TV.bussidmod",
+    	"link_livery": ""
+    }, {
+    	"title": "truck Oleng Canter ayam velg racing",
+    	"image": "http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/gambar/photo_2022-05-08_14-15-56.jpg",
+    	"link_mods": "http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/mod/7.%20CANTER%20AYAM%20RACING%20SHARE%20BY%20JODS%20TV%20%281%29.bussidmod",
+    	"link_livery": "http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/livery/racing%20ayam.png"
+    }, {
+    	"title": "Truck Canter Oleng Tronton",
+    	"image": "http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/gambar/photo_2022-05-08_14-15-53.jpg",
+    	"link_mods": "http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/mod/canter%20tronton.bussidmod",
+    	"link_livery": "http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/livery/canter%20tronton.png"
+    }, {
+    	"title": "Zed One",
+    	"image": "http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-11-40.jpg",
+    	"link_mods": "http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/TK_ZED_ONE_BC_V1_.bussidmod",
+    	"link_livery": "http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/Tiger%20Bc%20Template.png"
+    }, {
+    	"title": "KONDODY_HITECH_ROBIN",
+    	"image": "http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/gambar/photo_2022-05-10_07-20-12.jpg",
+    	"link_mods": "http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/KONDODY_HITECH_ROBIN.bussidmod",
+    	"link_livery": "http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/robin.png"
+    }, {
+    	"title": "Tiger Bodycode V1",
+    	"image": "http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-11-38.jpg",
+    	"link_mods": "http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/tigerbodycode.bussidmod",
+    	"link_livery": "http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/Sagara%20Skin.png"
+    }, {
+    	"title": "ARROW Coach Vega",
+    	"image": "http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-11-36.jpg",
+    	"link_mods": "http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/arrow%20coach%20vega.bussidmod",
+    	"link_livery": "http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/chothi.png"
+    }, {
+    	"title": "My Maruthi",
+    	"image": "http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-50-37.jpg",
+    	"link_mods": "http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/mod/my_maruthi.bussidvehicle",
+    	"link_livery": ""
+    }, {
+    	"title": "Putra Manunggal",
+    	"image": "http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/gambar/photo_2022-05-08_07-33-31.jpg",
+    	"link_mods": "http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/mod/NKR%20BOX%20PUTRA%20MANUNGGAL%20%5BRMC%20CREATION%5D.bussidmod",
+    	"link_livery": "http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/livery/Putra%20Manunggal%20By%20LfDesign.png"
+    }, {
+    	"title": "Truck Box Indomie",
+    	"image": "http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/gambar/photo_2022-05-08_07-33-25.jpg",
+    	"link_mods": "http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/mod/Canter%20Box%20Balap%20indomie.bussidmod",
+    	"link_livery": "http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/livery/Livery%20Box%20Balap%20indomie.png"
+    }, {
+    	"title": "Truck Canter Purel",
+    	"image": "http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/gambar/photo_2022-05-08_07-33-27.jpg",
+    	"link_mods": "http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/mod/3.%20truck%20canter%20purel.bussidmod",
+    	"link_livery": "http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/livery/3.%20livery%20truck%20canter%20purel.png"
+    }
+  ]
+}
